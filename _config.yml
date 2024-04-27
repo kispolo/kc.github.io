@@ -1,5 +1,5 @@
 # Site settings
-title: Hux Blog
+title: 车交所市场
 SEOTitle: 黄玄的博客 | Hux Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "最专业的卡车流转系统 <br> React Team @ Meta"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
